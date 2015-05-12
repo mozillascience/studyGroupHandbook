@@ -2,6 +2,15 @@
 
 *When your study group is just starting out, you'll need to let everyone know what's going on, while simultaneously encouraging people to step up to help organize, teach and get involved. Try remixing this template for your group (remember to fill out all the VARIABLES), and distribute it widely - departmental mailing lists, student groups and others. Also, there's a survey designed to get a sense of what people are interested in; try setting this up as a [Google form](https://www.google.com/forms/about/), and distributing with your mail.*
 
+Variables:
+
+ - INSTITUTION: where you'll be hosting most of your events.
+ - UNIVERSITY PUB OR CAFE: where you'll have your planning meetup to chat with people who are interested.
+ - DATE AND TIME: of your planning meetup.
+ - ISSUE TRACKER: link to the issue tracker in your Study Group GitHub repo.
+ - THIS SURVEY: link to the survey described below (optional)
+ - GITHUB REPO: link to the front page of your Study Group GitHub repo.
+
 ---------------------- letter template --------------------------------
 
 Hi all,
@@ -34,6 +43,7 @@ Shall we meet up at UNIVERSITY PUB OR CAFE to discuss on DATE AND TIME? Everyone
  - No
 
 4a. Last Name
+
 4b. First Name
 
 5. Affiliation / department
