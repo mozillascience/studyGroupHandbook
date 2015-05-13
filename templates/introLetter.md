@@ -42,9 +42,7 @@ Shall we meet up at UNIVERSITY PUB OR CAFE to discuss on DATE AND TIME? Everyone
  - Yes
  - No
 
-4a. Last Name
-
-4b. First Name
+4. (a)Last Name; (b) First Name
 
 5. Affiliation / department
 
