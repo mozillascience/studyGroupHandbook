@@ -28,14 +28,13 @@ Shall we meet up at UNIVERSITY PUB OR CAFE to discuss on DATE AND TIME? Everyone
 
  - Python
  - R
+ - C / C++
+ - Matlab
+ - Fortran
  - JavaScript / CSS / HTML
  - Other (please list)
 
-2. Would you be interested in attending some 1-hour coding tutorials?
-
- - Yes (schedule permitting)
- - Sometimes 
- - No
+2. What sort of things would you like to see lessons on? Think of tools or packages you've struggled with in the past, ideas you've wrestled with, or new things you've heard of but haven't tried yet.
 
 3. Would you be willing to lead a 1-hour coding tutorial on a topic of your choice? Expertise NOT required, basic introductions are perfect. 
 
