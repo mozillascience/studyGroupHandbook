@@ -34,9 +34,9 @@ Shall we meet up at UNIVERSITY PUB OR CAFE to discuss on DATE AND TIME? Everyone
  - JavaScript / CSS / HTML
  - Other (please list)
 
-2. What sort of things would you like to see lessons on? Think of tools or packages you've struggled with in the past, ideas you've wrestled with, or new things you've heard of but haven't tried yet.
+2. What sort of things would you like to see lessons on? Think of tools or packages you've struggled with in the past, data management and sharing challenges, or new things you've heard of but haven't tried yet.
 
-3. Would you be willing to lead a 1-hour coding tutorial on a topic of your choice? Expertise NOT required, basic introductions are perfect. 
+3. Would you be willing to lead a 1-hour tutorial on a topic of your choice? Expertise NOT required, basic introductions are perfect. 
 
  - Yes
  - No
