@@ -1,6 +1,6 @@
 ### Intro mail
 
-*When your study group is just starting out, you'll need to let everyone know what's going on, while simultaneously encouraging people to step up to help organize, teach and get involved. Try remixing this template for your group (remember to fill out all the VARIABLES), and distribute it widely - departmental mailing lists, student groups and others. Also, there's a survey designed to get a sense of what people are interested in; try setting this up as a [Google form](https://www.google.com/forms/about/), and distributing with your mail.*
+*When your study group is just starting out, you'll need to let everyone know what's going on, while simultaneously encouraging people to step up to help organize, teach and get involved. Try remixing this template for your group (remember to fill out all the VARIABLES), and distribute it widely - departmental mailing lists, student groups and others. Also, there's a survey designed to get a sense of what people are interested in; try setting this up as a [Google form](https://www.google.com/forms/about/), and distributing with your mail. Also see an [example survey](http://goo.gl/forms/OXNe5kB8ao) from the SFU Scientific Computing Study Group.*
 
 Variables:
 
